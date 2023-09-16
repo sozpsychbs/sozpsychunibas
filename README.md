@@ -5,7 +5,7 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat8.js'], function(A
 		category1 : {
 			name : 'Rose', //Will appear in the data.
 			title : {
-				media : {word : 'Black people'}, //Name of the category presented in the task.
+				media : {word : 'Rose'}, //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
@@ -19,7 +19,7 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat8.js'], function(A
 		category2 :	{
 			name : 'Sunflower', //Will appear in the data.
 			title : {
-				media : {word : 'White people'}, //Name of the category presented in the task.
+				media : {word : 'Sunflower'}, //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
