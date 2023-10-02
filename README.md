@@ -43,41 +43,41 @@ var API = new APIConstructor();
 		},
   		attribute1: 
     		{
-      			name : 'Home words',
+      			name : 'Care-Arbeit',
 	 		title : {
-    				 media : {word : 'Home Words'},
+    				 media : {word : 'Care-Arbeit'},
 	 			 css : {color: '#0000FF', 'font-size': '1.8em'}, 
       				 height : 4
 	   	},
      		stimulusMedia : [ //Stimuli content as PIP's media objects
-       		    {word : 'Staubsaugen'},
-	            {word : 'Küche'},
-	     	    {word : 'Ehe'},
+       		    {word : 'Staubsauger'},
+	            {word : 'kochen'},
+	     	    {word : 'putzen'},
 	   	    {word : 'Wäsche'},
-	 	    {word : 'Eltern'},
-        	    {word : 'Kinder'},
-	     	    {word : 'Pflegen'},
-	   	    {word : 'Haushalt'}
+	 	    {word : 'einkaufen'},
+        	    {word : 'bügeln'},
+	     	    {word : 'nähen'},
+	   	    {word : 'aufräumen'}
 	 	],
    		stimulusCss : {color:'#0000FF','font-size': '2.3em'}
      		},
        		attribute2 : 
 	 	{
-   			name : 'Career words',
+   			name : 'Karriere',
       			title : {
-	 			 media : {word : 'Career words'},
+	 			 media : {word : 'Karriere'},
       				 css : {color: '#0000FF', 'font-size': '1.8em'},
 	   			 height : 4
 		
 		},
 		stimulusMedia : [//Stimuli content as PIP's media objects
-			{word : 'Büro'},
-	                {word : 'Karriere'},
-	     	        {word : 'Einkommen'},
-	   	        {word : 'Arbeit'},
-	 	        {word : 'Unternehmen'},
-        	        {word : 'Beruf'},
-	     	        {word : 'Fachkraft'},
+			{word : 'delegieren'},
+	                {word : 'aufsteigen'},
+	     	        {word : 'projektleitend'},
+	   	        {word : 'Einkommen'},
+	 	        {word : 'studieren'},
+        	        {word : 'weiterbilden'},
+	     	        {word : 'Expertise'},
 	   	        {word : 'CEO'}
     		],
       		stimulusCss : {color:'#0000FF','font-size': '2.3em'}
