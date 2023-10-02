@@ -43,7 +43,7 @@ var API = new APIConstructor();
 		},
   		attribute1: 
     		{
-      			name : 'Home Words'
+      			name : 'Home words',
 	 		title : {
     				 media : {word : 'Home Words'},
 	 			 css : {color: '#0000FF', 'font-size': '1.8em'}, 
