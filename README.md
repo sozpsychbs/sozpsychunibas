@@ -43,42 +43,43 @@ var API = new APIConstructor();
 		},
   		attribute1: 
     		{
-      			name : 'Care-Arbeit',
+      			name : 'Durchsetzungsvermögen',
 	 		title : {
-    				 media : {word : 'Care-Arbeit'},
+    				 media : {word : 'Durchsetzungsvermögen'},
 	 			 css : {color: '#0000FF', 'font-size': '1.8em'}, 
       				 height : 4
 	   	},
      		stimulusMedia : [ //Stimuli content as PIP's media objects
-       		    {word : 'Staubsauger'},
-	            {word : 'kochen'},
-	     	    {word : 'putzen'},
-	   	    {word : 'Wäsche'},
-	 	    {word : 'einkaufen'},
-        	    {word : 'bügeln'},
-	     	    {word : 'nähen'},
-	   	    {word : 'aufräumen'}
+       		    {word : 'unabhängig'},
+	            {word : 'selbstbewusst'},
+	     	    {word : 'kompetitiv'},
+	   	    {word : 'belastbar'},
+	 	    {word : 'tatkräftig'},
+        	    {word : 'entscheidungsfreudig'},
+	     	    {word : 'hartnäckig'},
+	   	    {word : 'fühlt sich überlegen'}
 	 	],
    		stimulusCss : {color:'#0000FF','font-size': '2.3em'}
      		},
        		attribute2 : 
 	 	{
-   			name : 'Karriere',
+   			name : 'Mitgefühl',
       			title : {
-	 			 media : {word : 'Karriere'},
+	 			 media : {word : 'Mitgefühl'},
       				 css : {color: '#0000FF', 'font-size': '1.8em'},
 	   			 height : 4
 		
 		},
 		stimulusMedia : [//Stimuli content as PIP's media objects
-			{word : 'delegieren'},
-	                {word : 'aufsteigen'},
-	     	        {word : 'projektleitend'},
-	   	        {word : 'Einkommen'},
-	 	        {word : 'studieren'},
-        	        {word : 'weiterbilden'},
-	     	        {word : 'Expertise'},
-	   	        {word : 'CEO'}
+			{word : 'hilfsbereit'},
+	                {word : 'einfühlsam'},
+	     	        {word : 'warmherzig'},
+			{word : 'freundlich'},
+	   	        {word : 'emotional'},
+	 	        {word : 'anderen zugewandt'},
+        	        {word : 'gutmütig'},
+	     	        {word : 'verständnisvoll'}
+	   	        
     		],
       		stimulusCss : {color:'#0000FF','font-size': '2.3em'}
 		} 
