@@ -74,9 +74,9 @@ var API = new APIConstructor();
 			{word : 'hilfsbereit'},
 	                {word : 'einfühlsam'},
 	     	        {word : 'warmherzig'},
-			{word : 'freundlich'},
+			{word : 'liebenswürdig'},
 	   	        {word : 'emotional'},
-	 	        {word : 'anderen zugewandt'},
+	 	        {word : 'hingebungsvoll'},
         	        {word : 'gutmütig'},
 	     	        {word : 'verständnisvoll'}
 	   	        
