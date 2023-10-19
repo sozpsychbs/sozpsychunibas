@@ -1,4 +1,4 @@
-define(['pipAPI', 'https://cdn.psychologie.unibas.ch/minnojs/pi-minno-0.3.37.js'], function(APIConstructor, iatExtension){
+define(['pipAPI', 'https://cdn.jsdelivr.net/gh/minnojs/minno-quest@0.3/dist/pi-minno.js'], function(APIConstructor, iatExtension){
 var API = new APIConstructor();
 
 	
