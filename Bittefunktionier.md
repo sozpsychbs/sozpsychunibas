@@ -1,4 +1,5 @@
-define(['pipAPI', 'https://sozpsychbs.github.io/sozpsychunibas/IATOG.js'], function(APIConstructor, iatExtension){ var API = new APIConstructor();
+define(['pipAPI','https://sozpsychbs.github.io/sozpsychunibas/IATOG.js'], function(APIConstructor, iatExtension){ 
+var API = new APIConstructor();
 
 return iatExtension({
 	category1 : {
