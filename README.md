@@ -1,4 +1,4 @@
-define(['pipAPI', 'https://raw.githubusercontent.com/sozpsychbs/sozpsychunibas/sozpsychunibas/IATOG.js'], function(APIConstructor, iatExtension){
+define(['pipAPI', 'https://raw.githubusercontent.com/sozpsychbs/sozpsychunibas/sozpsychunibas/pi-minno.js'], function(APIConstructor, iatExtension){
 var API = new APIConstructor();
 
 	
