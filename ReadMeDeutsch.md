@@ -82,7 +82,9 @@ var API = new APIConstructor();
 	   	        
     		],
       		stimulusCss : {color:'#0000FF','font-size': '2.3em'},
-	
+		},
+
+ 
 	remindError: true,
 	remindErrorText: '<p align="center" style=font-size:"0.6em"; font-family:arial">' +
 	'Wenn Sie einen Fehler machen, erscheint ein rotes X. <font color="#ff0000"><b>X</b></font> ' +
@@ -97,6 +99,6 @@ var API = new APIConstructor();
 
 
         
-		} 
+		 
 	});
 });
