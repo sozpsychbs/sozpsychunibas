@@ -88,14 +88,16 @@ var API = new APIConstructor();
 	remindError: true,
 	remindErrorText: '<p align="center" style=font-size:"0.6em"; font-family:arial">' +
 	'Wenn Sie einen Fehler machen, erscheint ein rotes X. <font color="#ff0000"><b>X</b></font> ' +
-	'Drücken Sie eine andere Taste, um fortzufahren. <p/>',
+	'Drücken Sie eine andere Taste, um fortzufahren. <p/>' +
+				'<u>Gehen Sie so schnell wie möglich</u> und gleichzeitig so genau wie möglich vor.<br/><br/></p>'+
+				'<p align="center">Drücken Sie die <b>Leertaste</b> wenn Sie bereit sind, zu beginnen.</font></p></div>',
 
  	leftKeyText : 'Drücken Sie "E" für',
 	rightKeyText : 'Drücken Sie "I" für',
  	orText : 'oder',
-  	finalText : 'Drücken Sie die Leertaste, um mit der nächsten Aufgabe fortzufahren.',
+  	finalText : 'Drücken Sie die Leertaste, um mit der nächsten Aufgabe fortzufahren.'
 
-
+	};
 
 
         
