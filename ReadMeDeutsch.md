@@ -82,24 +82,16 @@ var API = new APIConstructor();
 	   	        
     		],
       		stimulusCss : {color:'#0000FF','font-size': '2.3em'},
+	
+	remindError: true,
+	remindErrorText: '<p align="center" sytle=font-soze:"0.6em"; font-family:arial">' +
+	'Wenn Sie einen Fehler machen, erscheint ein rotes X. <font color="#ff0000"><b>X</b></font> ' +
+	'Drücken Sie eine andere Taste, um fortzufahren. <p/>',
 
-remindError : true,
-
-remindErrorText : '<p align="center" style="font-size:"0.6em"; font-family:arial">' +
-'Wenn Sie einen Fehler machen, erscheint ein rotes X. <font color="#ff0000"><b>X</b></font> ' +
-'Drücken Sie eine andere Taste, um fortzufahren.<p/>',
-
-//Text and style for key instructions displayed about the category labels.
-
-leftKeyText : 'Drücken Sie "E" für', 
-rightKeyText : 'Drücken Sie "I" für', 
-
-keysCss : {'font-size':'0.8em', 'font-family':'courier', color:'#000000'},
-			//Text and style for the separator between the top and bottom category labels.
-			orText : 'oder', 
-			orCss : {'font-size':'1.8em', color:'#000000'},
-
-finalText : 'Drücken Sie die Leertaste, um mit der nächsten Aufgabe fortzufahren.',
+ 	leftKeyText : 'Drücken Sie "E" für',
+	rightKeyText : 'Drücken Sie "I" für',
+ 	orText : 'oder'
+  	finalText : 'Drücken Sie die Leertaste, um mit der nächsten Aufgabe fortzufahren.',
 
 
 
