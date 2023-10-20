@@ -87,7 +87,7 @@ var API = new APIConstructor();
  
 	remindError: true,
 	remindErrorText: '<p align="center" style=font-size:"0.6em"; font-family:arial">' +
-	'Wenn Sie einen Fehler machen, erscheint ein rotes X. <font color="#ff0000"><b>X</b></font> ' +
+	'Wenn Sie einen Fehler machen, erscheint ein rotes <font color="#ff0000"><b>X</b></font> ' +
 	'Drücken Sie eine andere Taste, um fortzufahren. <p/>' +
 				'<u>Gehen Sie so schnell wie möglich</u> und gleichzeitig so genau wie möglich vor.<br/><br/></p>'+
 				'<p align="center">Drücken Sie die <b>Leertaste</b> wenn Sie bereit sind, zu beginnen.</font></p></div>',
