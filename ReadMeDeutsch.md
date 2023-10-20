@@ -84,13 +84,13 @@ var API = new APIConstructor();
       		stimulusCss : {color:'#0000FF','font-size': '2.3em'},
 	
 	remindError: true,
-	remindErrorText: '<p align="center" sytle=font-soze:"0.6em"; font-family:arial">' +
+	remindErrorText: '<p align="center" style=font-size:"0.6em"; font-family:arial">' +
 	'Wenn Sie einen Fehler machen, erscheint ein rotes X. <font color="#ff0000"><b>X</b></font> ' +
 	'Drücken Sie eine andere Taste, um fortzufahren. <p/>',
 
  	leftKeyText : 'Drücken Sie "E" für',
 	rightKeyText : 'Drücken Sie "I" für',
- 	orText : 'oder'
+ 	orText : 'oder',
   	finalText : 'Drücken Sie die Leertaste, um mit der nächsten Aufgabe fortzufahren.',
 
 
